@@ -1,1 +1,1 @@
-<h1>HEad</h1>
+<h1>Exploratory Data Analysis on Superstore Dataset</h1>
